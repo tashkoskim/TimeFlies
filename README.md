@@ -1,5 +1,5 @@
 # TimeFlies
-## Different clocks desings in Windows forms (C#)
+## Different clock desings in Windows forms (C#)
  Windows forms app with different clock designs made just for fun. In this app I have methods for converting int to binary, hexadecimal, Macedonian words, English words, roman numerals, changing different images in order to simulate an animation and more. Some of the images are found on the Internet and I modified them in Photoshop in order to fit in to my clock design.
 
  ## Used NuGets
