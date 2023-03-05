@@ -16,8 +16,10 @@
 
 ### Binary clock
 - Converting numbers to binary string and playing with png images (for the lights)  
+| |  
+| :-: | 
 | ![Binary clock](https://github.com/tashkoskim/TimeFlies/blob/main/GifDemos/1_Binary.gif?raw=true) |   
-| :-: |  
+ 
 
 ### Hexadecimal clock
 - Converting numbers to hexadecimals and applying the result hex number as background form color  
