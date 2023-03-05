@@ -49,7 +49,7 @@ namespace TimeFlies.Clocks
             { 4, "Четврток"},
             { 5, "Петок"},
             { 6, "Сабота"},
-            { 7, "Недела"}
+            { 0, "Недела"}
         };
 
         private void Clock_Counter_Load(object sender, EventArgs e)
